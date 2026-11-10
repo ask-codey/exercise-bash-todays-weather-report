@@ -1,0 +1,132 @@
+{
+  "properties": {
+    "periods": [
+      {
+        "name": "Today",
+        "temperature": 58,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 4
+        },
+        "shortForecast": "Mostly Sunny"
+      },
+      {
+        "name": "Tonight",
+        "temperature": 45,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 1
+        },
+        "shortForecast": "Mostly Clear"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 61,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 1
+        },
+        "shortForecast": "Mostly Sunny"
+      },
+      {
+        "name": "Tuesday Night",
+        "temperature": 47,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 0
+        },
+        "shortForecast": "Clear"
+      },
+      {
+        "name": "Veterans Day",
+        "temperature": 61,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 0
+        },
+        "shortForecast": "Sunny"
+      },
+      {
+        "name": "Wednesday Night",
+        "temperature": 47,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 1
+        },
+        "shortForecast": "Mostly Cloudy"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 59,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 45
+        },
+        "shortForecast": "Mostly Cloudy then Chance Light Rain"
+      },
+      {
+        "name": "Thursday Night",
+        "temperature": 45,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 79
+        },
+        "shortForecast": "Light Rain"
+      },
+      {
+        "name": "Friday",
+        "temperature": 52,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 79
+        },
+        "shortForecast": "Light Rain"
+      },
+      {
+        "name": "Friday Night",
+        "temperature": 39,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 54
+        },
+        "shortForecast": "Chance Light Rain"
+      },
+      {
+        "name": "Saturday",
+        "temperature": 51,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 29
+        },
+        "shortForecast": "Chance Light Rain"
+      },
+      {
+        "name": "Saturday Night",
+        "temperature": 38,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 12
+        },
+        "shortForecast": "Partly Cloudy"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 53,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 4
+        },
+        "shortForecast": "Mostly Sunny"
+      },
+      {
+        "name": "Sunday Night",
+        "temperature": 39,
+        "temperatureUnit": "F",
+        "probabilityOfPrecipitation": {
+          "value": 0
+        },
+        "shortForecast": "Partly Cloudy"
+      }
+    ]
+  }
+}
